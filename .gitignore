@@ -22,6 +22,9 @@ lib-cov
 coverage
 *.lcov
 
+# Webstorm directory
+.ideaidea
+
 # nyc test coverage
 .nyc_output
 
